@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**ahmadr75/ahmadr75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 On-going learning for Azure AI development.
+- 🔭 Working on Industrial AI, Data Science, and AI Accelerators.
+- 🌱 Learning more about ML everyday.
+- 🤔 I’m looking for help with AI projects.
+- 💼 Check out my previous papers on [Google Scholar](https://scholar.google.com/citations?user=0kupfkYAAAAJ&hl=en).
+- 💬 Ask me about anything related to Machine Learning, Python Development, and Accelerator Design.
+- ⚡ Fun fact: I love exploring new technologies!
 
-Here are some ideas to get you started:
+## Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmad-rezaei-aa3162113/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-lightgrey?style=flat&logo=github)](https://ahmadr75.github.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Feel free to reach out!
