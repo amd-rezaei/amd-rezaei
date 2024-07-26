@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love exploring new technologies!
 
 ## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmad-rezaei-aa3162113/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmad--rezaei/)
 [![GitHub Pages](https://img.shields.io/badge/Website-lightgrey?style=flat&logo=github)](https://ahmadr75.github.io/)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Ahmad-Rezaei)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-9232-6934)
