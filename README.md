@@ -17,6 +17,6 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=amd-rezaei&theme=dark&hide_border=true&exclude_days=Sun%2CSat&card_width=450)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=amd-rezaei&theme=dark&hide_border=true&card_width=450)](https://git.io/streak-stats)
 
 Feel free to reach out!
