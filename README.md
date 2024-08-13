@@ -25,7 +25,7 @@
     </a>
   </div>
   <div style="flex-basis: 50%; padding: 5px;">
-    <img src="language_distribution.png" alt="" style="width: 100%; height: auto;">
+    <img src="language_distribution.svg" alt="" style="width: 100%; height: auto;">
   </div>
 </div>
 
