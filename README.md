@@ -17,6 +17,16 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=amd-rezaei&theme=dark&hide_border=true&card_width=450)](https://git.io/streak-stats)
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=amd-rezaei&theme=dark&hide_border=true&card_width=450" alt="GitHub Streak">
+    </a>
+  </div>
+  <div style="flex: 1;">
+    <img src="language_distribution.png" alt="" style="max-width: 100%;">
+  </div>
+</div>
+
 
 Feel free to reach out!
