@@ -24,7 +24,7 @@
     </a>
   </div>
   <div style="flex: 1;">
-    <img src="language_distribution.png" alt="" style="max-width: 100%;">
+    <img src="language_distribution.png" alt="" style="max-width: 100%; height: auto;">
   </div>
 </div>
 
