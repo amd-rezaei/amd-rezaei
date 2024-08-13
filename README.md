@@ -22,7 +22,7 @@
   <tr>
     <td style="width: 60%; padding: 0; border: none;">
       <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=amd-rezaei&theme=dark&hide_border=true&card_width=450" alt="GitHub Streak" style="width: 100%;">
+        <img src="https://streak-stats.demolab.com?user=amd-rezaei&theme=dark&hide_border=true&card_width=450" alt="GitHub Streak" style="width: 120%;">
       </a>
     </td>
     <td style="width: 40%; padding: 0; border: none;">
