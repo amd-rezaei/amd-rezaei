@@ -20,12 +20,12 @@
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
   <tr>
-    <td style="width: 50%; padding: 0; border: none;">
+    <td style="width: 60%; padding: 0; border: none;">
       <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com?user=amd-rezaei&theme=dark&hide_border=true&card_width=450" alt="GitHub Streak" style="width: 100%;">
       </a>
     </td>
-    <td style="width: 50%; padding: 0; border: none;">
+    <td style="width: 40%; padding: 0; border: none;">
       <img src="language_distribution.svg" alt="Language Distribution" style="width: 100%;">
     </td>
   </tr>
