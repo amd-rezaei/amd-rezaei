@@ -26,7 +26,7 @@
       </a>
     </td>
     <td style="width: 40%; padding: 0; border: none;">
-      <img src="language_distribution.svg" alt="Language Distribution" style="width: 100%;">
+      <img src="language_distribution.svg" alt="Language Distribution" style="width: 80%;">
     </td>
   </tr>
 </table>
