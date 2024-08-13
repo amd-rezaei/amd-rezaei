@@ -18,18 +18,19 @@
 ---
 
 
-<table>
+<table border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
   <tr>
-    <td>
+    <td style="width: 50%; padding: 5px;">
       <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com?user=amd-rezaei&theme=dark&hide_border=true&card_width=450" alt="GitHub Streak" style="width: 100%;">
       </a>
     </td>
-    <td>
+    <td style="width: 50%; padding: 5px;">
       <img src="language_distribution.svg" alt="" style="width: 100%;">
     </td>
   </tr>
 </table>
+
 
 
 
