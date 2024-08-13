@@ -17,13 +17,14 @@
 
 ---
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1; width: 50%;">
+
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1; max-width: 50%;">
     <a href="https://git.io/streak-stats">
       <img src="https://streak-stats.demolab.com?user=amd-rezaei&theme=dark&hide_border=true&card_width=450" alt="GitHub Streak" style="width: 100%;">
     </a>
   </div>
-  <div style="flex: 1; width: 50%;">
+  <div style="flex: 1; max-width: 50%;">
     <img src="language_distribution.png" alt="" style="width: 100%; height: auto;">
   </div>
 </div>
