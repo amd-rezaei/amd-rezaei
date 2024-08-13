@@ -19,13 +19,13 @@
 
 
 <div style="display: flex; align-items: center; justify-content: center;">
-  <div style="flex-basis: 50%; padding: 5px;">
+  <div style="flex-basis: 48%; padding: 5px;">
     <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=amd-rezaei&theme=dark&hide_border=true&card_width=450" alt="GitHub Streak" style="width: 100%;">
+      <img src="https://streak-stats.demolab.com?user=amd-rezaei&theme=dark&hide_border=true&card_width=450" alt="GitHub Streak" style="width: 50%;">
     </a>
   </div>
-  <div style="flex-basis: 50%; padding: 5px;">
-    <img src="language_distribution.svg" alt="" style="width: 100%; height: auto;">
+  <div style="flex-basis: 48%; padding: 5px;">
+    <img src="language_distribution.svg" alt="" style="width: 50%; height: auto;">
   </div>
 </div>
 
