@@ -18,25 +18,18 @@
 ---
 
 
-<div style="display: inline-block; width: 49%;">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=amd-rezaei&theme=dark&hide_border=true&card_width=450" alt="GitHub Streak" style="width: 100%;">
-  </a>
-</div>
-<div style="display: inline-block; width: 49%;">
-  <img src="language_distribution.svg" alt="Language Distribution" style="width: 100%;">
-</div>
-
-<a href="https://git.io/streak-stats" style="display: inline-block; width: 49%;">
-  <img src="https://streak-stats.demolab.com?user=amd-rezaei&theme=dark&hide_border=true&card_width=450" alt="GitHub Streak" style="width: 100%;">
-</a>
-<a href="#" style="display: inline-block; width: 49%;">
-  <img src="language_distribution.svg" alt="Language Distribution" style="width: 100%;">
-</a>
-
-<img src="https://streak-stats.demolab.com?user=amd-rezaei&theme=dark&hide_border=true&card_width=450" alt="GitHub Streak" width="49%">
-<img src="language_distribution.svg" alt="Language Distribution" width="49%">
-
+<table style="width: 100%; border-collapse: collapse; border: none;">
+  <tr>
+    <td style="width: 50%; padding: 0; border: none;">
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=amd-rezaei&theme=dark&hide_border=true&card_width=450" alt="GitHub Streak" style="width: 100%;">
+      </a>
+    </td>
+    <td style="width: 50%; padding: 0; border: none;">
+      <img src="language_distribution.svg" alt="Language Distribution" style="width: 100%;">
+    </td>
+  </tr>
+</table>
 
 
 
