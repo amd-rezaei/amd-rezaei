@@ -20,8 +20,12 @@
 
 
 <p align="center">
-  <a><picture><img align="" height='150px' src="https://streak-stats.demolab.com?user=amd-rezaei&theme=dark&hide_border=true&card_width=450" alt="aryashah2k" /></picture></a>
-  <a><picture><img align="" height='150px' src="language_distribution.svg" /></picture></a>
+  <a href="https://streak-stats.demolab.com?user=amd-rezaei&theme=dark&hide_border=true&card_width=450" target="_blank">
+    <picture><img align="" height='150px' src="https://streak-stats.demolab.com?user=amd-rezaei&theme=dark&hide_border=true&card_width=450" alt="aryashah2k" /></picture>
+  </a>
+  <a href="language_distribution.svg" target="_blank">
+    <picture><img align="" height='150px' src="language_distribution.svg" /></picture>
+  </a>
 </p>
 
 
