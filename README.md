@@ -2,11 +2,11 @@
 
 - 🎓 On-going learning for Azure AI development.
 - 🔭 Working on Industrial AI, Data Science, and AI Accelerators.
-- 🌱 Learning more about ML everyday.
+- 🌱 Learning more about ML every day.
 - 🤔 I’m looking for help with AI projects.
 - 💼 Check out my previous papers on [Google Scholar](https://scholar.google.com/citations?user=0kupfkYAAAAJ&hl=en).
 - 💬 Ask me about anything related to Machine Learning, Python Development, and Accelerator Design.
-- ⚡ Fun fact: I love exploring new technologies!
+- ⚡ Fun fact: I sometimes find myself coding a hobby project at 3 Am.
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmad--rezaei/)
