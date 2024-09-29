@@ -31,4 +31,8 @@
 
 
 
-Feel free to reach out!
+Feel free to reach me!
+
+![Profile Views](https://komarev.com/ghpvc/?username=amd-rezaei&color=blue)
+
+
