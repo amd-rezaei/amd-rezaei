@@ -28,7 +28,11 @@
   </a>
 </p>
 
-
+<a href="https://github-readme-stats.vercel.app/api?username=amd-rezaei&theme=dark&hide_border=false&include_all_commits=false&count_private=false" target="_blank">
+  <picture>
+    <img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=amd-rezaei&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  </picture>
+</a>
 
 
 Feel free to reach me!
