@@ -28,11 +28,14 @@
   </a>
 </p>
 
-<a href="https://github-readme-stats.vercel.app/api?username=amd-rezaei&theme=dark&hide_border=false&include_all_commits=false&count_private=false" target="_blank">
-  <picture>
-    <img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=amd-rezaei&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  </picture>
-</a>
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=amd-rezaei&theme=dark&hide_border=true&include_all_commits=false&count_private=false" target="_blank">
+    <picture><img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=amd-rezaei&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="aryashah2k" /></picture>
+  </a>
+  <a href=" " target="_blank">
+    
+  </a>
+</p>
 
 
 Feel free to reach me!
