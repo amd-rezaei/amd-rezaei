@@ -29,12 +29,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=amd-rezaei&theme=dark&hide_border=true&include_all_commits=false&count_private=false&hide_title=true&title_color=FFA500&show_icons=true" target="_blank">
+  <a href="https://github-readme-stats.vercel.app/api?username=amd-rezaei&theme=dark&hide_border=true&include_all_commits=false&count_private=false&hide_title=true&title_color=FFA500&show_icons=true&text_color=FFFFFF" target="_blank">
     <picture>
-      <img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=amd-rezaei&theme=dark&hide_border=true&include_all_commits=false&count_private=false&hide_title=true&title_color=FFA500&show_icons=true" alt="amd-rezaei GitHub Stats" />
+      <img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=amd-rezaei&theme=dark&hide_border=true&include_all_commits=false&count_private=false&hide_title=true&title_color=FFA500&show_icons=true&text_color=FFFFFF" alt="amd-rezaei GitHub Stats" />
     </picture>
   </a>
 </p>
+
 
 
 Feel free to reach me!
